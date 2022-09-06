@@ -1,0 +1,8 @@
+﻿  dictionaryList.c
+C:\Users\shaha\source\repos\dictionaryList_w4\dictionaryList_w4\dictionaryList.c(22,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+C:\Users\shaha\source\repos\dictionaryList_w4\dictionaryList_w4\dictionaryList.c(66,11): warning C4098: 'addItem': 'void' function returning a value
+C:\Users\shaha\source\repos\dictionaryList_w4\dictionaryList_w4\dictionaryList.c(73,11): warning C4098: 'addItem': 'void' function returning a value
+C:\Users\shaha\source\repos\dictionaryList_w4\dictionaryList_w4\dictionaryList.c(90,11): warning C4098: 'removeKey': 'void' function returning a value
+C:\Users\shaha\source\repos\dictionaryList_w4\dictionaryList_w4\dictionaryList.c(112,10): warning C4098: 'removeKey': 'void' function returning a value
+C:\Users\shaha\source\repos\dictionaryList_w4\dictionaryList_w4\dictionaryList.c(115,1): warning C4133: 'initializing': incompatible types - from 'dictionary *' to 'item *'
+  dictionaryList_w4.vcxproj -> C:\Users\shaha\source\repos\dictionaryList_w4\x64\Debug\dictionaryList_w4.exe
